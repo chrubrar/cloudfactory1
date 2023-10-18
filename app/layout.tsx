@@ -17,7 +17,7 @@ export default function RootLayout({
         <div className="border-2 border-green-500 h-screen">
           <div className="border-2 border-red-500">Top Nav</div>
           <div className="border-2 border-blue-500">
-            <div>Side Nav</div>
+            <div>Secondary Nav</div>
             {children}
           </div>
         </div>
